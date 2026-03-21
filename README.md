@@ -34,6 +34,7 @@ Soy un apasionado del desarrollo de software con base en **Barranquilla, Colombi
 ## 📈 Proyectos Destacados
 * **Dev-Tree:** Herramienta personalizada para gestión de enlaces y marca personal.
 * **Cash Tracker:** Herramienta personalizada para el seguimeinto de gastos.
+* **Te Escucho App:** Una app para que personas con problemas depresivos encuentren con quien hablar.
 
 ---
 
