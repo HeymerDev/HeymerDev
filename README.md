@@ -2,7 +2,7 @@
 
 ### 🚀 Desarrollador Web Full-Stack | Estudiante de Ingeniería de Sistemas
 
-Soy un apasionado del desarrollo de software con base en **Barranquilla, Colombia**. Actualmente curso el **8vo semestre de Ingeniería de Sistemas**, combinando el rigor académico con la experiencia práctica como **freelancer**. Me especializo en construir soluciones escalables, modernas y eficientes para la web.
+Soy un apasionado del desarrollo de software con base en **Barranquilla, Colombia**. Actualmente curso el **9vo semestre de Ingeniería de Sistemas**, combinando el rigor académico con la experiencia práctica como **freelancer**. Me especializo en construir soluciones escalables, modernas y eficientes para la web.
 
 ---
 
