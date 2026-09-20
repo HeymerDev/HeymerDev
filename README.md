@@ -29,6 +29,7 @@ Soy un apasionado del desarrollo de software con base en **Barranquilla, Colombi
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Claude](https://img.shields.io/badge/Claude_Code-555?logo=claude)
 
 ---
 
